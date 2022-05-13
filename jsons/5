@@ -1,0 +1,23 @@
+{
+  "name": "Moon #5",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcyhhBG8prD9h83GEsnUXjeuC9nakbKvVtwsYhEZ9aEjw/moon.jpg",
+  "description": "Celestial Body Moon",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Celestial body"
+    },
+    {
+      "trait_type": "Galaxy",
+      "value": "Milky Way"
+    },
+    {
+      "trait_type": "Diameter (in km)",
+      "value": 3474
+    }
+  ]
+}

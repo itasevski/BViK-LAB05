@@ -1,0 +1,23 @@
+{
+  "name": "Andromeda #1",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcyhhBG8prD9h83GEsnUXjeuC9nakbKvVtwsYhEZ9aEjw/andromeda.jpg",
+  "description": "Galaxy Andromeda",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Andromeda"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Galaxy",
+      "value": "Andromeda"
+    },
+    {
+      "trait_type": "Diameter (in light years)",
+      "value": 220000
+    }
+  ]
+}

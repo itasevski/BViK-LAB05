@@ -1,0 +1,23 @@
+{
+  "name": "Neptune #6",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcyhhBG8prD9h83GEsnUXjeuC9nakbKvVtwsYhEZ9aEjw/neptune.jpg",
+  "description": "Planet Neptune",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Neptune"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Planet"
+    },
+    {
+      "trait_type": "Galaxy",
+      "value": "Milky Way"
+    },
+    {
+      "trait_type": "Diameter (in km)",
+      "value": 49244
+    }
+  ]
+}

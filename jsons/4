@@ -1,0 +1,23 @@
+{
+  "name": "Milky Way #4",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcyhhBG8prD9h83GEsnUXjeuC9nakbKvVtwsYhEZ9aEjw/milky-way.jpg",
+  "description": "Galaxy Milky Way",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Milky Way"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Galaxy",
+      "value": "Milky Way"
+    },
+    {
+      "trait_type": "Diameter (in light years)",
+      "value": 105700
+    }
+  ]
+}

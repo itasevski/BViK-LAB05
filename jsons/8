@@ -1,0 +1,23 @@
+{
+  "name": "Saturn #8",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcyhhBG8prD9h83GEsnUXjeuC9nakbKvVtwsYhEZ9aEjw/saturn.jpg",
+  "description": "Planet Saturn",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Saturn"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Planet"
+    },
+    {
+      "trait_type": "Galaxy",
+      "value": "Milky Way"
+    },
+    {
+      "trait_type": "Diameter (in km)",
+      "value": 116460
+    }
+  ]
+}

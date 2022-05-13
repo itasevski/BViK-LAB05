@@ -24,7 +24,7 @@ module.exports = {
   networks: {
      rinkeby: {
        url: `https://rinkeby.infura.io/v3/${infuraApiKey}`,
-       accounts: { mnemonic: mnemonic },
+       accounts: { mnemonic: mnemonic }
      },
    },
    etherscan: {

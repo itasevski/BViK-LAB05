@@ -1,0 +1,23 @@
+{
+  "name": "Uranus #10",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcyhhBG8prD9h83GEsnUXjeuC9nakbKvVtwsYhEZ9aEjw/uranus.jpg",
+  "description": "Planet Uranus",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Uranus"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Planet"
+    },
+    {
+      "trait_type": "Galaxy",
+      "value": "Milky Way"
+    },
+    {
+      "trait_type": "Diameter (in km)",
+      "value": 50724
+    }
+  ]
+}

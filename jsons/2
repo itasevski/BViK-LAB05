@@ -1,0 +1,23 @@
+{
+  "name": "Earth #2",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcyhhBG8prD9h83GEsnUXjeuC9nakbKvVtwsYhEZ9aEjw/earth.jpg",
+  "description": "Planet Earth",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Planet"
+    },
+    {
+      "trait_type": "Galaxy",
+      "value": "Milky Way"
+    },
+    {
+      "trait_type": "Diameter (in km)",
+      "value": 12742
+    }
+  ]
+}

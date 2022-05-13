@@ -1,0 +1,23 @@
+{
+  "name": "Sun #9",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcyhhBG8prD9h83GEsnUXjeuC9nakbKvVtwsYhEZ9aEjw/sun.jpg",
+  "description": "Star Sun",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Star"
+    },
+    {
+      "trait_type": "Galaxy",
+      "value": "Milky Way"
+    },
+    {
+      "trait_type": "Diameter (in km)",
+      "value": 1392680
+    }
+  ]
+}
